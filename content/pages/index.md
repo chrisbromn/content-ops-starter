@@ -68,10 +68,11 @@ sections:
       - type: FeaturedItem
         title: 5k
         subtitle: Distance
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A 5K run or 3.1 miles, is a popular race distance for runners of all
+          levels. Accessible to most the average time for a 5k sits at around
+          24mins. but to go sub 20 requires a combination of speed, endurance,
+          and efficient pacing.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
