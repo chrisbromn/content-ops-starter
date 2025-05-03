@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 5000m
-        subtitle: Distance
+        subtitle: The Distance
         text: >
           A 5K run or 3.1 miles, is a popular race distance for runners of all
           levels. Accessible to most the average time for a 5k sits at around
