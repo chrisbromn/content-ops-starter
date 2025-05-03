@@ -66,7 +66,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 5k
+        title: 5000m
         subtitle: Distance
         text: >
           A 5K run or 3.1 miles, is a popular race distance for runners of all
