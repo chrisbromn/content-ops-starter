@@ -97,10 +97,11 @@ sections:
               borderRadius: x-large
       - title: 19mins59secs
         subtitle: The Time
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          You'll need to hold a pace of around 4:00mins per km or approximately
+          6:26 per mile. This demands consistent training, mental toughness and
+          a racing strategy.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
