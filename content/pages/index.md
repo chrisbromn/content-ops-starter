@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Break your personal barriers
+      text: Break your personal running barriers
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
