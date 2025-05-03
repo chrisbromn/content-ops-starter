@@ -286,7 +286,7 @@ sections:
       text: Social Media pages
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Find us online
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
