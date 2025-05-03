@@ -69,10 +69,10 @@ sections:
         title: 5000m
         subtitle: The Distance
         text: >
-          A 5K run or 3.1 miles, is a popular race distance for runners of all
-          levels. Accessible to most the average time for a 5k sits at around
-          24mins. but to go sub 20 requires a combination of speed, endurance,
-          and efficient pacing.
+          The 5K run or 3.1 miles is a popular racing distance accessible to
+          most runners of all ability with the average time at around 24mins. To
+          go sub 20 requires a combination of speed, endurance, and efficient
+          pacing.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
