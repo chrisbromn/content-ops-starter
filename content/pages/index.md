@@ -121,7 +121,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Accomplishmnet
+      - title: Accomplishment
         subtitle: The Plan
         text: >+
           Crossing the finish line in under 20 minutes is incredibly rewarding.
