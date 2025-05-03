@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Faster than you ever have before
       color: text-dark
       type: TitleBlock
     subtitle: ''
