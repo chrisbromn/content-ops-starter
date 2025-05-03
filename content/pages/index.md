@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Accomplishment
-        subtitle: The Plan
+        subtitle: The Strategy
         text: >+
           Crossing the finish line in under 20 minutes is incredibly rewarding.
           It's a testament to hard work, dedication, and perseverance. 
