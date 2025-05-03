@@ -123,10 +123,10 @@ sections:
         type: FeaturedItem
       - title: Accomplishment
         subtitle: The Strategy
-        text: >+
+        text: >
           Crossing the finish line in under 20 minutes is incredibly rewarding.
-          It's a testament to hard work, dedication, and perseverance. 
-
+          It's a testament to hard work, dedication, and perseverance. Be part
+          of the team that'll make it just that much easier on the day.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
