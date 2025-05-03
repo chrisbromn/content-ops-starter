@@ -174,7 +174,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Athletes that trust us
+  - subtitle: In partnership with
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
