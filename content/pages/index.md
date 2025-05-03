@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Go sub20 mins for the 5K
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      You pick the time and the place.
+      Our team of experienced athletes help you across the line.
+      One price, unlimited attempts.
     actions:
       - label: Get started
         altText: ''
