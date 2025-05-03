@@ -249,7 +249,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: 5k race starts
-      url: /images/placeholder-video.mp4
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
