@@ -520,7 +520,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Come run sub20 with us
+      text: Come run sub 20 with us
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
